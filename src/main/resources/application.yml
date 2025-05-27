@@ -10,3 +10,6 @@ server:
 logging:
   level:
     org.springframework.web: DEBUG
+
+polar:
+  greeting: Welcome to the local book catalog!
